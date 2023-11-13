@@ -1,0 +1,4 @@
+ECHO OFF
+CD \TOWN
+DTVPLAY -c -C%1 LANGUAGE_DIR=english/
+CD \
