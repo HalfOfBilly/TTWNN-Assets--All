@@ -1,0 +1,22 @@
+rmtm
+bookit bjvs
+keeper marbleonline1
+
+MakeDir RAM:ENV
+assign ENV: RAM:ENV
+
+setenv UNKNOWN  SYS:English
+setenv AMERICAN SYS:English
+setenv ENGLISH  SYS:English
+setenv GERMAN   SYS:German
+setenv FRENCH   SYS:French
+setenv SPANISH  SYS:Spanish
+setenv ITALIAN  SYS:Italian
+setenv DANISH   SYS:Danish
+cdtvlang LANGUAGE_DIR:
+
+Assign DUNE: SYS:
+Assign DTV:  SYS:
+
+DTV
+
