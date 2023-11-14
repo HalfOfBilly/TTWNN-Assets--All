@@ -1,0 +1,11 @@
+DUNE:OUT/IntoTownTune !intotpk.voc
+DUNE:OUT/DeathMarch !death.voc
+DUNE:Stuff/HatefulTune01 !hatetn.voc
+DUNE:OUT/GeneralTune1 !beatpk.voc
+DUNE:OUT/MorseTune !morsepk.voc
+DUNE:Stuff/SOMETHINGtune !pk2pk.voc
+DTV:adds/RACOONTUNE !racoon.voc
+DUNE:Creds/TTWNNtheme !ttwnpk.voc
+DTV:OUT/DeathMarch !death.voc
+DTV:OUT/GeneralTune1 !beatpk.voc
+DTV:Stuff/SOMETHINGtune !pk2pk.voc
