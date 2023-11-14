@@ -1,0 +1,21 @@
+copy CDTVREMOTEANIM DI0:cdtvrem.anm
+copy CDTVREMOTE2ANIM DI0:cdtv2rem.anm
+copy CDTVREMOTE3ANIM DI0:cdtv3rem.anm
+copy clintlookupanim DI0:cliloo.anm
+copy clintlookup2anim DI0:cliloo2.anm
+copy clintlookup3anim DI0:cliloo3.anm
+copy clinttalkanim DI0:clitalk.anm
+copy clinttalk2anim DI0:clitalk2.anm
+copy oldtimeranim DI0:oldtim.anm
+copy oldtimer2anim DI0:oldtim2.anm
+copy oldtimer3anim DI0:oldtim3.anm
+copy oldtimer4anim DI0:oldtim4.anm
+copy oldtimer5anim DI0:oldtim5.anm
+copy oldtimer6anim DI0:oldtim6.anm
+copy oldtimer7anim DI0:oldtim7.anm
+copy oldtimer8anim DI0:oldtim8.anm
+copy oldtimer9anim DI0:oldtim9.anm
+copy optionsign2 DI0:optsgn2
+copy ovtutor01 DI0:otut01
+copy ovtutor02 DI0:otut02
+
