@@ -5,8 +5,8 @@ This project is dedicated to reassembling every asset of The Town With No Name i
 Extract all animation/image assets (extracted ANM, ANI and IFF as .gif)
 
 <h2> TO DO (in order of priority): </h2>
-<p>Extract all audio files as .wav (most have been completed, but specific audio files have not).</p>
-<p>Decompile SHOT files. (supported alternate formats unknown).</p>
+Extract all audio files as .wav (most have been completed, but specific audio files have not).</p>
+<div>Decompile SHOT files. (supported alternate formats unknown).</div>
 Decompile .info files. (supported alternate formats unknown).
 Decompile .exe (preferably into C).
 Decompile .NT files (associated with unconverted audio)  (supported alternate formats unknown).
