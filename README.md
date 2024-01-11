@@ -1,5 +1,6 @@
 # Town-With-No-Name-Asset-Project
 This project is dedicated to reassembling every asset of The Town With No Name in non-proprietary, open-source formats.
+For images assets only: <a href="https://github.com/HalfOfBilly/TTWNN-Assets--Images-only">https://github.com/HalfOfBilly/TTWNN-Assets--Images-only</a>
 
 <h2> COMPLETED: </h2>
 Extract all animation/image assets (extracted ANM, ANI and IFF as .gif)
